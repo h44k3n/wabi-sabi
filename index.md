@@ -9,7 +9,7 @@ layout: default
 
 ### Categories
 - CTF writeup
-  - [picoctf 2018](/wabi-sabi/pico2018) writeups
+  - [picoctf 2018](/wabi-sabi/post/pico2018) writeups
 
 
 ### About
